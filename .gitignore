@@ -23,3 +23,13 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Typescript
+tsconfig.tsbuildinfo
+
+# Vite cache 
+.vite/
+
+# Json
+package-lock.json
+eslint.config.js
