@@ -1,0 +1,8 @@
+@keyframes borderAnimation {
+    0%{ transform: translate(0rem,0rem); }
+    20%{ transform: translate(-0.2rem,0.2rem); }
+    40%{ transform: translate(-0.2rem,-0.2rem); }
+    60%{ transform: translate(0.2rem,-0.2rem); }
+    80%{ transform: translate(0.2rem,0.2rem); }
+    100%{ transform: translate(0rem,0rem); }
+}
